@@ -9,7 +9,7 @@ def enviar_email(file_path, file_name):
     smtp_server = 'smtp.office365.com'
     smtp_port = 587
     smtp_username = 'pedrolopesv@outlook.com'
-    smtp_password = '1973284650@PH'
+    smtp_password = ''
 
     # Configurações do e-mail
     sender_email = 'pedrolopesv@outlook.com'
