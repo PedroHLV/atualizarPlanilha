@@ -1,4 +1,6 @@
 Atualizador e Enviador de Planilha por E-mail
+
+
 Este script Python foi desenvolvido para automatizar a atualização de uma planilha do Excel e enviá-la por e-mail. Ele é projetado para ser usado no Agendador de Tarefas do Windows, permitindo que o script seja executado periodicamente.
 
 Funcionalidades
