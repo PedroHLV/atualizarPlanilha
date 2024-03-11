@@ -1,4 +1,4 @@
-# Atualizador e Enviador de Planilha por E-mail
+# Atualizador e Disparador de Planilha por E-mail
 
 
 
